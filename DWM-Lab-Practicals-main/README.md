@@ -1,10 +1,10 @@
 # 📊 Data Warehousing and Mining (DWM) Practicals
 
 ## 🧑‍🎓 Student Details:
-- **Name:** Atharva Kale  
+- **Name:** Chinmay Gandhewar
 - **Semester:** VI  
-- **Section:** C  
-- **PRN:** 22070521071  
+- **Section:** B  
+- **PRN:** 22070521170  
 
 ## 📌 Overview
 This repository contains the implementation of various Data Warehousing and Mining (DWM) practicals completed as part of the Semester VI curriculum. The practicals focus on data preprocessing, transformation, OLAP operations, and key machine learning algorithms used in data mining.
